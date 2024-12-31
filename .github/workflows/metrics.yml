@@ -28,10 +28,10 @@ jobs:
           plugin_languages_recent_days: 14
 
           # Wakatime
-          plugin_wakatime: yes
-          plugin_wakatime_sections: time, projects, languages, editors, os
-          plugin_wakatime_token: ${{ secrets.WAKA_KEY }}
-          plugin_wakatime_user: PhiBee
+          # plugin_wakatime: yes
+          # plugin_wakatime_sections: time, projects, languages, editors, os
+          # plugin_wakatime_token: ${{ secrets.WAKA_KEY }}
+          # plugin_wakatime_user: PhiBee
 
           # Spotify
           plugin_music: yes
