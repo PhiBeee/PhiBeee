@@ -1,4 +1,4 @@
-# Dog Woman's git repo for random things
-I'm just having fun over here
+# Dog Woman's git
+I am mostly comfortable in python, but trying to learn new things :D
 
 ![Metrics](/github-metrics.svg)
