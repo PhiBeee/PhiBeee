@@ -25,12 +25,16 @@ jobs:
           # Recent Languages
           plugin_languages: yes
           plugin_languages_sections: recently-used
-          plugin_languages_analysis_timeout: 15
-          plugin_languages_categories: markup, programming
+          plugin_languages_recent_load: 400
+          plugin_languages_recent_days: 14
+          plugin_languages_analysis_timeout: 400
+          plugin_languages_categories: data, prose
+          plugin_languages_recent_categories: data, prose
           plugin_languages_colors: github
           plugin_languages_limit: 8
           plugin_languages_threshold: 0%
           plugin_languages_indepth: true
+          commits_authoring: Phi, PhiBeee, phibidossantos@gmail.com
 
           # Wakatime
           plugin_wakatime: yes
