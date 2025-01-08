@@ -44,4 +44,4 @@ jobs:
           plugin_music: yes
           plugin_music_token: ${{ secrets.LASTFM_TOKEN }}
           plugin_music_provider: lastfm
-          plugin_music_user: RJ
+          plugin_music_user: PhiBee_
